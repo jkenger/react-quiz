@@ -40,14 +40,15 @@ command to run if program contains helper info
 Contributors names and contact info
 
 - Ken Gervacio [@gervacio_ken](https://twitter.com/gervacio_ken)
-- Added difficulty selections, where it will filter the questions depending on the user's difficulty choices.
-- Added previous button where users can go back from the previous question.
 - Jonas Schmedtmann[@schemedtmann_jonas](https://www.udemy.com/user/jonasschmedtmann/)
 
 ## Version History
 
 - 0.1
   - Initial Release
+- 0.2
+  - Added difficulty selections, where it will filter the questions depending on the user's difficulty choices.
+  - Added previous button where users can go back from the previous question.
 
 ## Acknowledgments
 
